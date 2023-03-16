@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/TP1_exo3bis_square.dir/exo3bis_square.cpp.o -o TP1_exo3bis_square  ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL /usr/lib/x86_64-linux-gnu/libGL.so.1 ../../third-party/libGLEW.a 

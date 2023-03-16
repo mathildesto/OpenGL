@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/TP1_exo5_index.dir/exo5_index.cpp.o -o TP1_exo5_index  ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL /usr/lib/x86_64-linux-gnu/libGL.so.1 ../../third-party/libGLEW.a 

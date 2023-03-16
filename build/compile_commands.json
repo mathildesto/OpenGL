@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Cone.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/Cone.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/Cone.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Geometry.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/Geometry.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/Geometry.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Image.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/Image.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/Image.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Program.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/Program.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/Program.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/SDLWindowManager.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/SDLWindowManager.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/SDLWindowManager.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Shader.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/Shader.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/Shader.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Sphere.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/Sphere.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/Sphere.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/glimac",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o -c /home/mathilde/Documents/GLImac-Template/glimac/src/tiny_obj_loader.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/glimac/src/tiny_obj_loader.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/SDLtemplate.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo1_triangle_blanc.dir/exo1_triangle_blanc.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/exo1_triangle_blanc.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/exo1_triangle_blanc.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo2_triangle_couleur.dir/exo2_triangle_couleur.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/exo2_triangle_couleur.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/exo2_triangle_couleur.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo3_structure_vertex.dir/exo3_structure_vertex.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/exo3_structure_vertex.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/exo3_structure_vertex.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo3bis_square.dir/exo3bis_square.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/exo3bis_square.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/exo3bis_square.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo4_circle.dir/exo4_circle.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/exo4_circle.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/exo4_circle.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo5_index.dir/exo5_index.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/exo5_index.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/exo5_index.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP1",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo6_index_circle.dir/exo6_index_circle.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP1/exo6_index_circle.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP1/exo6_index_circle.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP2",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP2/SDLtemplate.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP2/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP2",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_exo2_triangle_couleur.dir/exo2_triangle_couleur.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP2/exo2_triangle_couleur.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP2/exo2_triangle_couleur.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP2",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_exo2_triangle_shader.dir/exo2_triangle_shader.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP2/exo2_triangle_shader.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP2/exo2_triangle_shader.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP2",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_exo3.dir/exo3.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP2/exo3.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP2/exo3.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP2",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_mandelbrot.dir/mandelbrot.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP2/mandelbrot.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP2/mandelbrot.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TP_template",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP_template_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/mathilde/Documents/GLImac-Template/TP_template/SDLtemplate.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TP_template/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TPgarbage",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TPgarbage_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/mathilde/Documents/GLImac-Template/TPgarbage/SDLtemplate.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TPgarbage/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/mathilde/Documents/GLImac-Template/build/TPgarbage",
+  "command": "/usr/bin/g++  -I/usr/include/SDL -I/home/mathilde/Documents/GLImac-Template/glimac/include -I/home/mathilde/Documents/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TPgarbage_foo.dir/foo.cpp.o -c /home/mathilde/Documents/GLImac-Template/TPgarbage/foo.cpp",
+  "file": "/home/mathilde/Documents/GLImac-Template/TPgarbage/foo.cpp"
+}
+]

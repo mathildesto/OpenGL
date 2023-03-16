@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/TP2_exo2_triangle_shader.dir/exo2_triangle_shader.cpp.o -o TP2_exo2_triangle_shader  ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL /usr/lib/x86_64-linux-gnu/libGL.so.1 ../../third-party/libGLEW.a 

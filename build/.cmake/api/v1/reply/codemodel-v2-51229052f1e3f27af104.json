@@ -1,0 +1,284 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "glimac",
+					"jsonFile" : "directory-glimac-Debug-ebe3615535dda0ae9fa6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "glimac",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "TP1",
+					"jsonFile" : "directory-TP1-Debug-4813176b5f6d8411ea18.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TP1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				},
+				{
+					"build" : "TP2",
+					"jsonFile" : "directory-TP2-Debug-018f6261204513f19458.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TP2",
+					"targetIndexes" : 
+					[
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				},
+				{
+					"build" : "TP_template",
+					"jsonFile" : "directory-TP_template-Debug-2830983fffd33638f97c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TP_template",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "TPgarbage",
+					"jsonFile" : "directory-TPgarbage-Debug-e6327e69a99674eb5548.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TPgarbage",
+					"targetIndexes" : 
+					[
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "ImacGL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_SDLtemplate::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_SDLtemplate-Debug-c2d0cf33e55fc116a598.json",
+					"name" : "TP1_SDLtemplate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_exo1_triangle_blanc::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_exo1_triangle_blanc-Debug-a4013a09ba98c12ebb9d.json",
+					"name" : "TP1_exo1_triangle_blanc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_exo2_triangle_couleur::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_exo2_triangle_couleur-Debug-ec95e75c27fdbe59474f.json",
+					"name" : "TP1_exo2_triangle_couleur",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_exo3_structure_vertex::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_exo3_structure_vertex-Debug-6d05616774731631551a.json",
+					"name" : "TP1_exo3_structure_vertex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_exo3bis_square::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_exo3bis_square-Debug-1cf8e4ad5ef2086b4cdb.json",
+					"name" : "TP1_exo3bis_square",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_exo4_circle::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_exo4_circle-Debug-ee1ffb736898f26ca627.json",
+					"name" : "TP1_exo4_circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_exo5_index::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_exo5_index-Debug-67b79c48c08c996d226b.json",
+					"name" : "TP1_exo5_index",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TP1_exo6_index_circle::@7e51edc548702fe68443",
+					"jsonFile" : "target-TP1_exo6_index_circle-Debug-22083165958591c2e0dd.json",
+					"name" : "TP1_exo6_index_circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "TP2_SDLtemplate::@08066924ac81fca4d261",
+					"jsonFile" : "target-TP2_SDLtemplate-Debug-3d26e7780f4cfc8cb70c.json",
+					"name" : "TP2_SDLtemplate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "TP2_exo2_triangle_couleur::@08066924ac81fca4d261",
+					"jsonFile" : "target-TP2_exo2_triangle_couleur-Debug-6969e30d8bd5dbc7f862.json",
+					"name" : "TP2_exo2_triangle_couleur",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "TP2_exo2_triangle_shader::@08066924ac81fca4d261",
+					"jsonFile" : "target-TP2_exo2_triangle_shader-Debug-0b1e9f2a3684d52c58b5.json",
+					"name" : "TP2_exo2_triangle_shader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "TP2_exo3::@08066924ac81fca4d261",
+					"jsonFile" : "target-TP2_exo3-Debug-a4891344e51242601130.json",
+					"name" : "TP2_exo3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "TP2_mandelbrot::@08066924ac81fca4d261",
+					"jsonFile" : "target-TP2_mandelbrot-Debug-1d1f6218e4450e68a97d.json",
+					"name" : "TP2_mandelbrot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "TP_template_SDLtemplate::@23a3ca8c27463d044e33",
+					"jsonFile" : "target-TP_template_SDLtemplate-Debug-d468abd7908e471b3002.json",
+					"name" : "TP_template_SDLtemplate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "TPgarbage_SDLtemplate::@ee1fa828ffd6b72ba1ba",
+					"jsonFile" : "target-TPgarbage_SDLtemplate-Debug-38bcf1fc60a43bd9ac1f.json",
+					"name" : "TPgarbage_SDLtemplate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "TPgarbage_foo::@ee1fa828ffd6b72ba1ba",
+					"jsonFile" : "target-TPgarbage_foo-Debug-14eab4666257b9eb387c.json",
+					"name" : "TPgarbage_foo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "glimac::@cfa65abc3ab409b74416",
+					"jsonFile" : "target-glimac-Debug-5ba9cd8b2dff9c3dd5b3.json",
+					"name" : "glimac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mathilde/Documents/GLImac-Template/build",
+		"source" : "/home/mathilde/Documents/GLImac-Template"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
